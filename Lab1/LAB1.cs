@@ -8,44 +8,44 @@ namespace Lab1
         }
         private void button1_Click(object sender, EventArgs e)
         {
-            BaiTh1 form1 = new BaiTh1();
+            BaiTap1 form1 = new BaiTap1();
             form1.Show();
         }
         private void button2_Click(object sender, EventArgs e)
         {
-            BaiTh2 form2 = new BaiTh2();
+            BaiTap2 form2 = new BaiTap2();
             form2.Show();
         }
         private void button3_Click(object sender, EventArgs e)
         {
-            BaiTh3 form3 = new BaiTh3();
+            BaiTap3 form3 = new BaiTap3();
             form3.Show();
         }
         private void button4_Click(object sender, EventArgs e)
         {
-            BaiTh4 form4 = new BaiTh4();
+            BaiTap4 form4 = new BaiTap4();
             form4.Show();
         }
         private void button5_Click(object sender, EventArgs e)
         {
-            BaiTh5 form5 = new BaiTh5();
+            BaiTap5 form5 = new BaiTap5();
             form5.Show();
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
-            BaiTh6 form6 = new BaiTh6();
+            BaiTap6 form6 = new BaiTap6();
             form6.Show();
         }
         private void button7_Click(object sender, EventArgs e)
         {
-            BaiTh7 form7 = new BaiTh7();
+            BaiTap7 form7 = new BaiTap7();
             form7.Show();
         }
 
         private void button8_Click(object sender, EventArgs e)
         {
-            BaiTh8 form8 = new BaiTh8();
+            BaiTap8 form8 = new BaiTap8();
             form8.Show();
         }
         private void button9_Click(object sender, EventArgs e)
