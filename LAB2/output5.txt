@@ -1,6 +1,6 @@
 ** Xếp hạng danh thu từ cao đến thấp 
 -------------------------------
-Phim: Avengers: Infinity War, Số vé bán ra: 5, Số vé tồn: 495, Tỉ lệ vé bán ra: 0.01, Doanh thu: 437500
+Phim: Avengers: Infinity War, Số vé bán ra: 2, Số vé tồn: 498, Tỉ lệ vé bán ra: 0.004, Doanh thu: 250000
 Phim: Forrest Gump, Số vé bán ra: 0, Số vé tồn: 500, Tỉ lệ vé bán ra: 0, Doanh thu: 0
 Phim: The Matrix, Số vé bán ra: 0, Số vé tồn: 500, Tỉ lệ vé bán ra: 0, Doanh thu: 0
 Phim: The Lord of the Rings: The Fellowship of the Ring, Số vé bán ra: 0, Số vé tồn: 500, Tỉ lệ vé bán ra: 0, Doanh thu: 0

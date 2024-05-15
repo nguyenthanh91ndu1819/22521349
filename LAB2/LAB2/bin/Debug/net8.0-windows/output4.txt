@@ -1,16 +1,16 @@
 Name: Nguyen Thanh
-ID: 22521349
-Phone: 2204
-Course1: 7
+ID: 2252
+Phone: 1349
+Course1: 10
 Course2: 8
 Course3: 9
 Average: 0
 
 Name: Nguyen Duc Tan
-ID: 22521350
-Phone: 2204
+ID: 2252
+Phone: 1350
 Course1: 10
-Course2: 8
+Course2: 10
 Course3: 9
 Average: 0
 

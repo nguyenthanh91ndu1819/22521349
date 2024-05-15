@@ -1,0 +1,54 @@
+CREATE TABLE KhachHang (
+    MaKh nchar(5) PRIMARY KEY,
+    TenKH nvarchar(50),
+    CCCD varchar(20) NOT NULL,
+    GioiTinh nvarchar(3) NOT NULL,
+    NamSinhKH datetime NOT NULL,
+    SDT varchar(15) NOT NULL,
+    QuocTich nchar(10) NOT NULL,
+    DiaChi nvarchar(50) NOT NULL
+);
+CREATE TABLE Phong (
+    MaPhong nchar(5) PRIMARY KEY,
+    SoPhong INT NOT NULL,
+    LoaiPhong nvarchar(10),
+    MaKH nchar(5),
+    FOREIGN KEY (MaKH) REFERENCES KhachHang(MaKh)
+);
+
+
+CREATE TABLE DatPhong (
+    MaDP nchar(5) PRIMARY KEY,
+    TenKH nvarchar(50),
+    SoPhong int,
+    LoaiPhong nvarchar(10),
+    MaPhong nchar(5),
+    MaHD nchar(5),
+    FOREIGN KEY (MaPhong) REFERENCES Phong(MaPhong)
+);
+
+CREATE TABLE HoaDon (
+    MaHD nchar(5) PRIMARY KEY,
+    TenKh nvarchar(50),
+    LoaiPhong nvarchar(10),
+    GiaPhong decimal(18,2),
+    MaKH nchar(5),
+    MaNV nchar(5),
+    MaDP nchar(5),
+    FOREIGN KEY (MaDP) REFERENCES DatPhong(MaDP),
+    FOREIGN KEY (MaNV) REFERENCES NHANVIEN(MaNV)
+);
+
+CREATE TABLE ThanhToan (
+    MaHD nchar(5),
+    CCCD varchar(20),
+    SoTien decimal(18,2),
+    TinhTrangThanhToan nvarchar(50) NOT NULL,
+    TenKH nvarchar(50) NOT NULL,
+    PRIMARY KEY (MaHD, CCCD),
+    FOREIGN KEY (MaHD) REFERENCES HoaDon(MaHD)
+);
+ALTER TABLE Phong
+ADD TinhTrangPhong nvarchar(10);
+ALTER TABLE Phong
+ADD CONSTRAINT FK_Phong_KhachHang FOREIGN KEY (MaKH) REFERENCES KhachHang(MaKh) ON DELETE SET NULL;
