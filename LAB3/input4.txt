@@ -1,0 +1,7 @@
+[  {"TenPhim": "Avengers: Infinity War", "GiaVeChuan": 125000, "PhongChieu": [1, 2]},
+  {"TenPhim": "Forrest Gump", "GiaVeChuan": 95000, "PhongChieu": [3, 4]},
+  {"TenPhim": "The Matrix", "GiaVeChuan": 105000, "PhongChieu": [5, 6]},
+  {"TenPhim": "The Lord of the Rings: The Fellowship of the Ring", "GiaVeChuan": 110000, "PhongChieu": [7, 8]},
+  {"TenPhim": "Titanic", "GiaVeChuan": 115000, "PhongChieu": [9, 10]},
+  {"TenPhim": "Inglourious Basterds", "GiaVeChuan": 98000, "PhongChieu": [11, 12]}
+]
