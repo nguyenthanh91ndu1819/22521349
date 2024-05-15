@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Legion\\source\\repos\\LAB3\\",
+  "WorkspaceRootPath": "C:\\Users\\Legion\\source\\repos\\22521349\\LAB3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37C8D11D-A9B1-4491-BA43-4408A4177D0E}|LAB3\\LAB3.csproj|c:\\users\\legion\\source\\repos\\lab3\\lab3\\baitap4\\baitap4server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37C8D11D-A9B1-4491-BA43-4408A4177D0E}|LAB3\\LAB3.csproj|c:\\users\\legion\\source\\repos\\22521349\\lab3\\lab3\\baitap4\\baitap4server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37C8D11D-A9B1-4491-BA43-4408A4177D0E}|LAB3\\LAB3.csproj|solutionrelative:lab3\\baitap4\\baitap4server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37C8D11D-A9B1-4491-BA43-4408A4177D0E}|LAB3\\LAB3.csproj|C:\\Users\\Legion\\source\\repos\\LAB3\\lab3\\baitap4\\baitap4server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{37C8D11D-A9B1-4491-BA43-4408A4177D0E}|LAB3\\LAB3.csproj|C:\\Users\\Legion\\source\\repos\\22521349\\LAB3\\lab3\\baitap4\\baitap4server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{37C8D11D-A9B1-4491-BA43-4408A4177D0E}|LAB3\\LAB3.csproj|solutionrelative:lab3\\baitap4\\baitap4server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37C8D11D-A9B1-4491-BA43-4408A4177D0E}|LAB3\\LAB3.csproj|C:\\Users\\Legion\\source\\repos\\LAB3\\lab3\\baitap4\\baitap4client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{37C8D11D-A9B1-4491-BA43-4408A4177D0E}|LAB3\\LAB3.csproj|C:\\Users\\Legion\\source\\repos\\22521349\\LAB3\\lab3\\baitap4\\baitap4client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{37C8D11D-A9B1-4491-BA43-4408A4177D0E}|LAB3\\LAB3.csproj|solutionrelative:lab3\\baitap4\\baitap4client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37C8D11D-A9B1-4491-BA43-4408A4177D0E}|LAB3\\LAB3.csproj|C:\\Users\\Legion\\source\\repos\\LAB3\\lab3\\baitap4\\baitap4client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37C8D11D-A9B1-4491-BA43-4408A4177D0E}|LAB3\\LAB3.csproj|C:\\Users\\Legion\\source\\repos\\22521349\\LAB3\\lab3\\baitap4\\baitap4client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37C8D11D-A9B1-4491-BA43-4408A4177D0E}|LAB3\\LAB3.csproj|solutionrelative:lab3\\baitap4\\baitap4client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,24 +44,23 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "BaiTap4Client.cs",
-              "DocumentMoniker": "C:\\Users\\Legion\\source\\repos\\LAB3\\LAB3\\BaiTap4\\BaiTap4Client.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\source\\repos\\22521349\\LAB3\\LAB3\\BaiTap4\\BaiTap4Client.cs",
               "RelativeDocumentMoniker": "LAB3\\BaiTap4\\BaiTap4Client.cs",
-              "ToolTip": "C:\\Users\\Legion\\source\\repos\\LAB3\\LAB3\\BaiTap4\\BaiTap4Client.cs",
+              "ToolTip": "C:\\Users\\Legion\\source\\repos\\22521349\\LAB3\\LAB3\\BaiTap4\\BaiTap4Client.cs",
               "RelativeToolTip": "LAB3\\BaiTap4\\BaiTap4Client.cs",
               "ViewState": "AQIAAD0AAAAAAAAAAAAqwEwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:56:38.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T12:56:38.389Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BaiTap4Server.cs",
-              "DocumentMoniker": "C:\\Users\\Legion\\source\\repos\\LAB3\\LAB3\\BaiTap4\\BaiTap4Server.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\source\\repos\\22521349\\LAB3\\LAB3\\BaiTap4\\BaiTap4Server.cs",
               "RelativeDocumentMoniker": "LAB3\\BaiTap4\\BaiTap4Server.cs",
-              "ToolTip": "C:\\Users\\Legion\\source\\repos\\LAB3\\LAB3\\BaiTap4\\BaiTap4Server.cs",
+              "ToolTip": "C:\\Users\\Legion\\source\\repos\\22521349\\LAB3\\LAB3\\BaiTap4\\BaiTap4Server.cs",
               "RelativeToolTip": "LAB3\\BaiTap4\\BaiTap4Server.cs",
-              "ViewState": "AQIAAN8AAAAAAAAAAADwv+IAAAAqAAAA",
+              "ViewState": "AQIAANYAAAAAAAAAAAAwwOIAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T12:55:19.974Z",
               "EditorCaption": ""
@@ -70,25 +69,23 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "BaiTap4Client.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Legion\\source\\repos\\LAB3\\LAB3\\BaiTap4\\BaiTap4Client.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\source\\repos\\22521349\\LAB3\\LAB3\\BaiTap4\\BaiTap4Client.cs",
               "RelativeDocumentMoniker": "LAB3\\BaiTap4\\BaiTap4Client.cs",
               "ToolTip": "C:\\Users\\Legion\\source\\repos\\LAB3\\LAB3\\BaiTap4\\BaiTap4Client.cs [Design]",
-              "RelativeToolTip": "LAB3\\BaiTap4\\BaiTap4Client.cs [Design]",
+              "RelativeToolTip": "..\\..\\LAB3\\LAB3\\BaiTap4\\BaiTap4Client.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:55:17.596Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-15T12:55:17.596Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "BaiTap4Server.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Legion\\source\\repos\\LAB3\\LAB3\\BaiTap4\\BaiTap4Server.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\source\\repos\\22521349\\LAB3\\LAB3\\BaiTap4\\BaiTap4Server.cs",
               "RelativeDocumentMoniker": "LAB3\\BaiTap4\\BaiTap4Server.cs",
               "ToolTip": "C:\\Users\\Legion\\source\\repos\\LAB3\\LAB3\\BaiTap4\\BaiTap4Server.cs [Design]",
-              "RelativeToolTip": "LAB3\\BaiTap4\\BaiTap4Server.cs [Design]",
+              "RelativeToolTip": "..\\..\\LAB3\\LAB3\\BaiTap4\\BaiTap4Server.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:55:16.927Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-15T12:55:16.927Z"
             }
           ]
         }
