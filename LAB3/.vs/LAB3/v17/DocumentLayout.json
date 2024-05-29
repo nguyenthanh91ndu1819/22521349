@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,6 +39,14 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -60,7 +68,7 @@
               "RelativeDocumentMoniker": "LAB3\\BaiTap4\\BaiTap4Server.cs",
               "ToolTip": "C:\\Users\\Legion\\source\\repos\\22521349\\LAB3\\LAB3\\BaiTap4\\BaiTap4Server.cs",
               "RelativeToolTip": "LAB3\\BaiTap4\\BaiTap4Server.cs",
-              "ViewState": "AQIAANYAAAAAAAAAAAAwwOIAAAAqAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAASwBEAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T12:55:19.974Z",
               "EditorCaption": ""

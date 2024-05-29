@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BaiTap1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BaiTap2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BaiTap3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BaiTap4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BaiTap5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BaiTap6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BaiTap7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewSourceBai3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WebViewBai4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

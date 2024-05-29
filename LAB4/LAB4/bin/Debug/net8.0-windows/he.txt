@@ -1,0 +1,10 @@
+** Xếp hạng danh thu từ cao đến thấp 
+-------------------------------
+Phim: Ngôi Đền Kỳ Quái 4, Số vé bán ra: 2, Số vé tồn: 498, Tỉ lệ vé bán ra: 0.004, Doanh thu: 188320
+Phim: Doraemon: Nobita và Bản Giao H..., Số vé bán ra: 0, Số vé tồn: 500, Tỉ lệ vé bán ra: 0, Doanh thu: 0
+Phim: Furiosa: Câu Chuyện Từ Max Điê..., Số vé bán ra: 0, Số vé tồn: 500, Tỉ lệ vé bán ra: 0, Doanh thu: 0
+Phim: Những Người Bạn Tưởng Tượng, Số vé bán ra: 0, Số vé tồn: 500, Tỉ lệ vé bán ra: 0, Doanh thu: 0
+Phim: Vây Hãm: Kẻ Trừng Phạt, Số vé bán ra: 0, Số vé tồn: 500, Tỉ lệ vé bán ra: 0, Doanh thu: 0
+Phim: Án Mạng Lầu 4, Số vé bán ra: 0, Số vé tồn: 500, Tỉ lệ vé bán ra: 0, Doanh thu: 0
+Phim: Haikyu!! Trận Chiến Bãi Phế Li..., Số vé bán ra: 0, Số vé tồn: 500, Tỉ lệ vé bán ra: 0, Doanh thu: 0
+Phim: Lật Mặt 7, Số vé bán ra: 0, Số vé tồn: 500, Tỉ lệ vé bán ra: 0, Doanh thu: 0

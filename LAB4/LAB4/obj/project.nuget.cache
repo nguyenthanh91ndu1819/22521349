@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "U8DA4dBlxVaxNqDXKwGu/QFeR63Kd+R8nxFHNsZhCWAyPGUvifALNbjxAIgZ+qL5of/dN6uPIc8CfNZXzV6LMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Legion\\source\\repos\\22521349\\LAB4\\LAB4\\LAB4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Legion\\.nuget\\packages\\htmlagilitypack\\1.11.61\\htmlagilitypack.1.11.61.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.web.webview2\\1.0.2478.35\\microsoft.web.webview2.1.0.2478.35.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
