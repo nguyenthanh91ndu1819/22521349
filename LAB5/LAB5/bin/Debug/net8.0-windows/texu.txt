@@ -1,0 +1,13 @@
+** Xếp hạng danh thu từ cao đến thấp 
+-------------------------------
+Phim: Đừng Mở Cửa, Số vé bán ra: 1, Số vé tồn: 499, Tỉ lệ vé bán ra: 0.002, Doanh thu: 104457
+Phim: Gia Tài Của Ngoại, Số vé bán ra: 0, Số vé tồn: 500, Tỉ lệ vé bán ra: 0, Doanh thu: 0
+Phim: Móng Vuốt, Số vé bán ra: 0, Số vé tồn: 500, Tỉ lệ vé bán ra: 0, Doanh thu: 0
+Phim: Những Gã Trai Hư: Chơi Hay Bị ..., Số vé bán ra: 0, Số vé tồn: 500, Tỉ lệ vé bán ra: 0, Doanh thu: 0
+Phim: Garfield: Mèo Béo Siêu Quậy, Số vé bán ra: 0, Số vé tồn: 500, Tỉ lệ vé bán ra: 0, Doanh thu: 0
+Phim: Doraemon: Nobita và Bản Giao H..., Số vé bán ra: 0, Số vé tồn: 500, Tỉ lệ vé bán ra: 0, Doanh thu: 0
+Phim: Lật Mặt 7, Số vé bán ra: 0, Số vé tồn: 500, Tỉ lệ vé bán ra: 0, Doanh thu: 0
+Phim: Ngôi Đền Kỳ Quái 4, Số vé bán ra: 0, Số vé tồn: 500, Tỉ lệ vé bán ra: 0, Doanh thu: 0
+Phim: Những Kẻ Theo Dõi, Số vé bán ra: 0, Số vé tồn: 500, Tỉ lệ vé bán ra: 0, Doanh thu: 0
+Phim: Stalker: Tội Ác Hoàn Hảo, Số vé bán ra: 0, Số vé tồn: 500, Tỉ lệ vé bán ra: 0, Doanh thu: 0
+Phim: Totto-Chan: Cô Bé Bên Cửa Sổ, Số vé bán ra: 0, Số vé tồn: 500, Tỉ lệ vé bán ra: 0, Doanh thu: 0
