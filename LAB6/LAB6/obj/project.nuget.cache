@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dc+hUuX0QIiCaqzJkT1AnU69zb0SFPTWngW0wer1QleC4uFQxq/QoKecjveFfI2703Yw6qf+ChQVykDYmQWw9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Legion\\source\\repos\\22521349\\LAB6\\LAB6\\LAB6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Legion\\.nuget\\packages\\supersimpletcp\\3.0.14\\supersimpletcp.3.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
